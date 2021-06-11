@@ -51,3 +51,5 @@ int main(){
     cout << third[1] << endl;
   }
 }
+
+//time complexity: O(1)
